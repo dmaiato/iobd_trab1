@@ -1,8 +1,8 @@
--- DROP DATABASE IF EXISTS portal_de_Artigos
+DROP DATABASE IF EXISTS portal_de_Artigos
 
--- CREATE DATABASE portal_de_artigos
+CREATE DATABASE portal_de_artigos
 
--- \c portal_de_artigos
+\c portal_de_artigos
 
 DROP SCHEMA IF EXISTS portal;
 CREATE SCHEMA portal;
